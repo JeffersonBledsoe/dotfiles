@@ -1,0 +1,6 @@
+*~
+.DS_Store
+node_modules/*
+pyvenv.cfg
+.Python
+python2.7
